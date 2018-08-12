@@ -1,4 +1,4 @@
 # swift
 
-my daily swift playground
+my daily swift playground and new courses.
 
